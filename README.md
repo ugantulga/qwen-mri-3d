@@ -47,7 +47,7 @@ pip install pyvistaqt
 ### Quick Install
 
 ```bash
-git clone https://github.com/yourusername/qwen-layer-visualization.git
+git clone https://github.com/ugantulga/qwen-mri-3d.git
 cd qwen-layer-visualization
 pip install -r requirements.txt
 ```
