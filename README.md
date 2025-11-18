@@ -76,7 +76,7 @@ run_pipeline(cfg)
 cfg = Config()
 cfg.corpus = [
     "Mongolia has the coldest capital city in the world.",
-    ""Machine learning models process data using neural networks.",
+    "Machine learning models process data using neural networks.",
     "Climate change affects ecosystems around the world.",
 ]
 run_pipeline(cfg)
