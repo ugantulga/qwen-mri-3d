@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.*
+*.log
+
+# Build / dist
+build/
+dist/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Outputs
+qwen_mri3d_outputs/
+*.html
+*.npz
+*.png
