@@ -20,6 +20,7 @@ This project extends percolation and cluster-formation analysis of token represe
 - **Volumetric Rendering**: Optional PyVista/VTK-based "MRI stack" density visualization
 - **Percolation Statistics**: Track giant component formation (φ), cluster counts, and susceptibility (χ)
 
+![Example](example_qwen_mri_3d.png)  
 ## Installation
 
 ### Basic Requirements
